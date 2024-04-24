@@ -28,8 +28,6 @@ Post-Processing
 - What other factors of Bitcoin's technical indicators can help us further predict the trend of Bitcoin?
 - What kind of models can we use that most accurately predicts the price of Bitcoin?
 
-### Presentation
-The presentation video can be found (here)[].
 
 ### Data Preparation and Cleaning
 
